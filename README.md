@@ -2,7 +2,9 @@
 
 ## 📸 App Interface
 
-<img src="Asset/Dynamic-Salah-Engine.jpg" width="400" alt="Dynamic-Salah-Engine Screenshot">
+<p align="center">
+  <img src="Asset/Dynamic-Salah-Engine.jpg" width="800" alt="Dynamic-Salah-Engine">
+</p>
 
 A high-performance, dynamic web application that provides real-time prayer timings for any city and country globally. This project showcases advanced _API handling_ using JavaScript Promises.
 
@@ -10,7 +12,7 @@ A high-performance, dynamic web application that provides real-time prayer timin
 
 ## 🚀 Live Links
 
-- _🌐 Project Live Demo:_ [Click Here to View Live App](https://hafiz-muhammad-ahmed.github.io/your-repo-name)
+- _🌐 Project Live Demo:_ [Click Here to View Live App](https://dynamic-salah-engine.vercel.app/)
 - _💻 GitHub Repository:_ [View Source Code](https://github.com/hmahmd/dynamic-salah-engine)
 - _📱 Contact Developer (WhatsApp):_ [Chat with Me Directly](https://wa.me/923112015969)
 
