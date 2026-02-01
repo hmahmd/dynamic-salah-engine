@@ -3,7 +3,7 @@
 ## 📸 App Interface
 
 <p align="center">
-  <img src="Asset/Dynamic-Salah-Engine.jpg" width="800" alt="Dynamic-Salah-Engine">
+  <img src="Asset/Dynamic-Salah-Engine.jpeg" width="800" alt="Dynamic-Salah-Engine">
 </p>
 
 A high-performance, dynamic web application that provides real-time prayer timings for any city and country globally. This project showcases advanced _API handling_ using JavaScript Promises.
